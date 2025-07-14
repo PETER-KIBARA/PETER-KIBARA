@@ -23,7 +23,7 @@
 <br/>
 <div>
 <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=flutter&logoColor=%2361DAFB"/>
+<img src="https://img.shields.io/badge/flutter%20-%2320232a.svg?&style=for-the-badge&logo=flutter&logoColor=%2361DAFB"/>
 
 <img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>
 
