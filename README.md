@@ -55,7 +55,7 @@
 <br/>
 
 
-![Visitor Count](https://hits.dwyl.com/PETER-KIBARA/README.svg)
+![Visitor Count](https://hits.dwyl.com/PETER-KIBARA/README.md.svg)
 
 
 </div>
