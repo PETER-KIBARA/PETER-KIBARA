@@ -4,7 +4,7 @@
 
 <br />
 
-> *YOU CAN HAVE COFFEE BEFORE THE GIF LOADS*.
+
 
 <br/>
 <br/>
