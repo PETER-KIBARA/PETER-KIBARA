@@ -48,11 +48,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-<br/>
-
-![Stats](https://github-readme-stats.vercel.app/api?username=PETER-KIBARA&theme=dark&show_icons=true&bg_color=1a1a1a&icon_color=a0ffff)
-
-<br/>
 
 
   [![HitCount](https://hits.dwyl.com/PETER-KIBARA/readmemd.svg?style=flat)](http://hits.dwyl.com/PETER-KIBARA/readmemd)
